@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xujiaz99
 - 🌱 learning C++,JAVA,PYTHON..
 
-- 📫 How to reach me 
+- 📫 reach me 
      xujiazunit_
 
 <!---
